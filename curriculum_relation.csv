@@ -1,0 +1,6 @@
+1:n, prog_entity_id, prow_prog_entity_id, program_entity, program_reviews
+1:1, prog_entity_id, pred_prog_entity_id, program_entity, program_entity_description
+1:n, prog_entity_id, sect_prog_entity_id, program_entity, sections
+1:n, sect_id, secd_sect_id, sections, section_detail
+1:1, secd_id, sedm_secd_id, section_detail, section_detail_material
+

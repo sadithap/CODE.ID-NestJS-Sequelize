@@ -1,0 +1,7 @@
+1:n, cate_id, cate_cate_id, category, category
+1:n, skty_name, skty_name, skill_type, skill_template
+1:n, skte_id, skte_skte_id, skill_template, skill_template
+1:n, module_name, roac_module_name, modules, route_actions
+1:n, country_code, prov_country_code, country, province
+1:n, prov_id, city_prov_id, province, city
+1:n, city_id, addr_city_id, city, address
